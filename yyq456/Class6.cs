@@ -8,5 +8,6 @@ namespace yyq456
 {
     class Class6
     {
+        int x = 0;
     }
 }
