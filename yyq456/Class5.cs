@@ -8,5 +8,7 @@ namespace yyq456
 {
     class Class5
     {
+        public int a = 111;
+
     }
 }
